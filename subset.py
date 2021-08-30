@@ -1,4 +1,4 @@
-# It creates the subset of the given list
+# It creates the subset of the given list.
 def subset(mylist):
     if mylist == []:
         return [[]]
