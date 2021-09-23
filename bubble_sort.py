@@ -1,6 +1,6 @@
 #It checks two elements of the given list
 #if the previous one is greater than the next one, they are replaced
-#When nothing is changed, it returns "bubble" sorted list
+#When nothing is changed, it returns "bubble" sorted list.
 def bubble_sorting(mylist):
     another_tour = True
     while another_tour:
